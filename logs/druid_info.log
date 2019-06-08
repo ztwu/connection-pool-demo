@@ -1,0 +1,2 @@
+11:15:16.593 [main] DEBUG druid.sql.Connection - {conn-10001,procId-3} connected
+11:15:16.674 [main] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
